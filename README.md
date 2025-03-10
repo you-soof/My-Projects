@@ -1,7 +1,7 @@
 # **Hi 👋, I'm Yusuf**  
-**Smart Cities || Computational Design || BIM || AI & Machine Learning || Digital Twins || Mobile App Development**  
+**Smart Cities || Computational Design || BIM || VR & AR || AI & Machine Learning || Digital Twins || Mobile App Development**  
 
-Hello! I'm a **civil engineering graduate** currently pursuing a **double MSc in Smart Cities and Communities and Information & Communication Technologies (ICT)** under the **Erasmus Mundus program**. My work spans across **structural engineering, computational design, AI-driven solutions, and digital twins**, with a strong focus on **automation, sustainability, and smart urban systems**.  
+Hello! I'm a **civil engineering graduate** currently pursuing a **double MSc in Smart Cities and Communities and Information & Communication Technologies (ICT)** under the **Erasmus Mundus program**. My work spans across **structural engineering, computational design, immersive AR/VR experiences, AI-driven solutions, mobile application development, web development, and digital twins**, with a strong focus on **automation, sustainability, and smart urban systems**.
 
 In my academic and professional journey, I have worked on **BIM-driven automation, digital workflows, and AI-powered engineering applications**. I am particularly passionate about leveraging **machine learning, computer vision, and IoT** to enhance **smart cities and the built environment**.  
 
@@ -36,4 +36,4 @@ I am open to **collaborative projects, research, and internships** in:
 
 
 
-Welcome to my GitHub repository! Here you'll find a diverse collection of projects that bridge the worlds of design and technology—from BIM-driven computational design, immersive AR/VR experiences, and Unity games, to innovative software development in Python (including ML and DL), mobile app development, and web development. This space reflects my passion for integrating digital tools into creative solutions across architecture, smart cities, and interactive media.
+
